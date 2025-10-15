@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------
 // PROJECT: Proximity Detection Analyzer (LPC1768)
 // -----------------------------------------------------------------------------
-#include "LPC17xx.h" 
+#include <LPC17xx.h>
 #include <stdio.h>
 
 // --- PIN DEFINITIONS ---
